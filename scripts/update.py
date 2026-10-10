@@ -14,7 +14,7 @@ import csv, io, json, os, sys, urllib.request
 from datetime import date
 
 SRC = 'https://veritahire.com/job-openings-index/'
-UA = {'User-Agent': 'us-job-openings-index-updater (+https://github.com/robgundling1211/us-job-openings-index)'}
+UA = {'User-Agent': 'us-job-openings-index-updater (+https://github.com/veritahire/us-job-openings-index)'}
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 KEEP = ['date', 'index', 'index_7d_avg', 'first_published', 'panel_employers', 'open_postings_in_panel',
         'weekly_posting_rate', 'weekly_closing_rate', 'employers_excluded_board_event']

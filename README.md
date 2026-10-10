@@ -62,7 +62,7 @@ Use it straight from GitHub:
 
 ```python
 import pandas as pd
-df = pd.read_csv("https://raw.githubusercontent.com/robgundling1211/us-job-openings-index/main/data/job-openings-index.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/veritahire/us-job-openings-index/main/data/job-openings-index.csv")
 ```
 
 ## More detail

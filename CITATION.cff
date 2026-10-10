@@ -7,7 +7,7 @@ authors:
   - name: "VeritaHire (1211 Holding LLC)"
     website: "https://veritahire.com"
 url: "https://veritahire.com/job-openings-index/"
-repository-code: "https://github.com/robgundling1211/us-job-openings-index"
+repository-code: "https://github.com/veritahire/us-job-openings-index"
 license: CC-BY-4.0
 keywords:
   - job openings
