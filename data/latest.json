@@ -1,0 +1,25 @@
+{
+ "name": "VeritaHire Job Openings Index",
+ "base": "2026-09-04",
+ "base_value": 100,
+ "data_through": "2026-10-09",
+ "computed_at": "2026-10-10T08:25Z",
+ "index": 100.81,
+ "index_7d_avg": 101.17,
+ "change_1d_pct": -0.19,
+ "change_7d_pct": 0.09,
+ "change_28d_pct": 1.23,
+ "change_since_base_pct": 1.17,
+ "panel_employers": 18228,
+ "open_postings_in_panel": 2069084,
+ "weekly_posting_rate": 0.1268,
+ "weekly_closing_rate": 0.1288,
+ "method": {
+  "season_days": 7,
+  "min_reads_7d": 4,
+  "event_min_rows": 20,
+  "event_share": 0.5,
+  "evergreen_excluded": true
+ },
+ "source": "https://veritahire.com/job-openings-index/"
+}
