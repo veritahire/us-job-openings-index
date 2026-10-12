@@ -71,7 +71,7 @@ The national index is free. Underneath it, VeritaHire publishes:
 
 - **per-employer daily series** of postings opened, closed and live (back to June 2026), joinable to SEC
   tickers;
-- **every live US job posting** (2.5 million+) with pay, requirements and the employer's own apply link;
+- **every live US job posting** (around 2.5 million) with pay, requirements and the employer's own apply link;
 - **stuck and reposted requisitions** by state and industry.
 
 API, files and pricing: https://veritahire.com/verified-jobs-feed/ · Questions and custom cuts:
