@@ -8,19 +8,19 @@ published the next day. Free data, updated here every morning.
 ## Latest
 
 <!-- latest:start -->
-**101.13** (7-day average, 2026-09-04 = 100), data through **2026-10-17**, published 2026-10-18 08:25Z.
+**101.04** (7-day average, 2026-09-04 = 100), data through **2026-10-18**, published 2026-10-19 08:25Z.
 
 | | |
 |---|---|
-| Daily index | 101.48 |
-| Change, 1 day | +0.83% |
-| Change, 7 days | -0.30% |
-| Change, 28 days | +1.58% |
-| Change since 2026-09-04 | +1.13% |
-| Employers in the panel | 18,492 |
-| Open postings in the panel | 2,125,124 |
-| New postings this week, share of open | 11.9% |
-| Postings closed this week, share of open | 12.8% |
+| Daily index | 101.32 |
+| Change, 1 day | -0.26% |
+| Change, 7 days | -0.41% |
+| Change, 28 days | +1.41% |
+| Change since 2026-09-04 | +1.04% |
+| Employers in the panel | 18,578 |
+| Open postings in the panel | 2,081,400 |
+| New postings this week, share of open | 12.3% |
+| Postings closed this week, share of open | 13.1% |
 <!-- latest:end -->
 
 ## Why it exists
