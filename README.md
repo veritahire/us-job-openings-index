@@ -29,10 +29,10 @@ The official count of US job openings (the JOLTS survey) arrives about five week
 describes, and job-board posting indexes about a week later. This index is published **the day after**,
 from the employers' own career sites rather than from a survey or a job board.
 
-- **Straight from the source.** VeritaHire reads the career sites of 19,000+ US employers every day
+- **Straight from the source.** VeritaHire reads the career sites of 25,000+ US employers every day
   (Workday, iCIMS, Greenhouse, Lever, SmartRecruiters, UKG and more). No job boards, no reposts.
-- **A fixed, seasoned panel.** The index follows 18,000+ employers whose boards have been read long enough to
-  trust, chained day to day, with 4 September 2026 = 100. The headline is a 7-day average because
+- **A fixed, seasoned panel.** The index follows only employers whose boards we have read for at least 7 days, so
+  a new employer's backlog never moves it. It is chained day to day, with 4 September 2026 = 100. The headline is a 7-day average because
   postings swing about 1.5% by day of the week.
 - **Built to be checked.** The first published value of every day is kept beside the latest one, so every
   revision is visible. An employer whose board could not be read on a day is held out of that day rather
@@ -71,7 +71,7 @@ The national index is free. Underneath it, VeritaHire publishes:
 
 - **per-employer daily series** of postings opened, closed and live (back to June 2026), joinable to SEC
   tickers;
-- **every live US job posting** (around 2.5 million) with pay, requirements and the employer's own apply link;
+- **every live US job posting** (around 2.9 million) with pay, requirements and the employer's own apply link;
 - **stuck and reposted requisitions** by state and industry.
 
 API, files and pricing: https://veritahire.com/verified-jobs-feed/ · Questions and custom cuts:
